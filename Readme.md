@@ -1,15 +1,3 @@
-# Project Title
-
-A brief description of your project.
-
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
 ## How to run
 
  - clone the repository from `git clone https://github.com/Adebayo-Adesegun/Tushop`
